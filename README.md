@@ -70,3 +70,19 @@ Recovery professionals, people in recovery (lived experience is invaluable), add
   <br><br>
   <sub>Built with <a href="https://mama.oliwoods.ai">MAMA</a> · Powered by <a href="https://cofounder.software">CoFounder</a><br>GPL-3.0 — Fork it. Deploy it. Make an impact.</sub>
 </p>
+
+## Expanded Agents (v2)
+
+| Agent | Role |
+|-------|------|
+| **CrisisResponder** | Immediate intervention, MANDATORY SAMHSA handoff |
+| **RecoveryNavigator** | Treatment center finder, insurance verification, bed availability |
+| **SoberCoach** | Daily check-ins, trigger identification, coping strategies |
+| **PeerConnector** | Recovery mentor matching, AA/NA meeting finder |
+| **FamilySupport** | Al-Anon, codependency resources, family education |
+| **RelapsePrevention** | Early warning, emergency contacts, safety planning |
+| **MAT-Navigator** | Medication-Assisted Treatment guidance: Suboxone, methadone, naltrexone providers. Insurance coverage. Stigma-free information. MAT saves lives — this agent removes barriers to accessing it. |
+| **HousingBridge** | Sober living finder, Oxford House directory, transitional housing for people in recovery. Housing is the #1 predictor of sustained recovery. |
+| **EmploymentBridge** | Recovery-friendly employers, workplace accommodation rights, disclosure guidance (when to tell, when not to). Employment stability prevents relapse. |
+
+**9 agents. Zero judgment. MANDATORY SAMHSA + 988 handoff. Free forever.**
