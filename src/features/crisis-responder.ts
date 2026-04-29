@@ -88,7 +88,7 @@ const RELAPSE_KEYWORDS = [
  * Detect crisis severity from user message text.
  * SAFETY-CRITICAL: errs on the side of higher severity.
  */
-export function detectCrisisSeverity(message: string): CrisisSeverity {
+export function detectCrisisSeverity(message: string): z.infer<typeof CrisisSeverity> {
   const lower = message.toLowerCase();
 
   if (OVERDOSE_KEYWORDS.some((kw) => lower.includes(kw))) return "active_overdose";
